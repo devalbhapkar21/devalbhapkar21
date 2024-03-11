@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalbhapkar21&label=Profile%20views&color=0e75b6&style=flat" alt="devalbhapkar21" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, Cloud Technologies , Computer Vision**
+- 🌱 I’m currently learning **Generative AI, Cloud Technologies **
 
-- 💬 Ask me about **SQL , Python , TABLEAU , Power BI , Data Analytics , NLP , Computer Vision**
+- 💬 Ask me about **SQL , Python , TABLEAU , Power BI , Data Analytics , NLP **
 
 - 📫 How to reach me **devalbhapkar@gmail.com**
 
